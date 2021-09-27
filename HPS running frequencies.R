@@ -27,6 +27,19 @@ count(wk_34, 'Telehealth_Cat')
 wk_28 <- read.csv("C:/Users/hp/Desktop/Coursera course/Household Pulse Survey/wk_28.csv")
 count(wk_28, 'Telehealth_Cat')
 
+wk_33 <- read.csv("C:/Users/hp/Desktop/Coursera course/Household Pulse Survey/wk_33 yes and nos.csv")
+count(wk_33, 'Telehealth_Cat')
 
 
+wk_32 <- read.csv("C:/Users/hp/Desktop/Coursera course/Household Pulse Survey/wk_32.csv")
+count(wk_32, 'Telehealth_Cat')
+
+wk_31 <- read.csv("C:/Users/hp/Desktop/Coursera course/Household Pulse Survey/wk_31.csv")
+count(wk_31, 'Telehealth_Cat')
+
+wk_30 <- read.csv("C:/Users/hp/Desktop/Coursera course/Household Pulse Survey/wk_30.csv")
+count(wk_30, 'Telehealth_Cat')
+
+wk_29 <- read.csv("C:/Users/hp/Desktop/Coursera course/Household Pulse Survey/wk_29.csv")
+count(wk_29, 'Telehealth_Cat')
 
